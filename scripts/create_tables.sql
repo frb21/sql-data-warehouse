@@ -1,5 +1,5 @@
 /*
-  Create Database Tables for Datasets
+  Create Database Tables for Datasets in bronze layer schema
   This script will create the tables into the 'DataWarehouse' database
   
 */
