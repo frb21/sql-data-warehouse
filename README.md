@@ -80,10 +80,6 @@ data-warehouse-project/
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 ## 🌟 About Me
 
 Hi! I'm **Francis Rey Betonio**, a Computer Science student at UP Cebu passionate about data science and analytics. Currently diving deep into data engineering, data workflows, data architecture, data science, machine learning, and database optimization, always excited to tackle new data challenges and learn emerging technologies.
