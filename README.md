@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi! I'm **Francis Rey Betonio**, a Computer Science student at UP Cebu passionate about data science and analytics. Currently diving deep into data engineering, data architecture, data science, machine learning, and database optimization, always excited to tackle new data challenges and learn emerging technologies.
+Hi! I'm **Francis Rey Betonio**, a Computer Science student at UP Cebu passionate about data science and analytics. Currently diving deep into data engineering, data workflows, data architecture, data science, machine learning, and database optimization, always excited to tackle new data challenges and learn emerging technologies.
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
 [![LinkedIn](https://www.linkedin.com/in/francis-rey-betonio-490185328/)
